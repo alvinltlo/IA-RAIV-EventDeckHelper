@@ -11,8 +11,8 @@ const evt_agenda_file_prefix = "Imperial Agenda - Single cards - All cards";
 const start_standard_evt_deck_size = 25;
 
 const difficultyM = new Map();
-//difficultyM.set("Standard", [-1, -1, -1]);
-difficultyM.set("Standard", [1, 1, 1]);
+difficultyM.set("Standard", [-1, -1, -1]);
+//difficultyM.set("Standard", [1, 1, 1]);
 difficultyM.set("Youngling", [22, 3, 0]);
 difficultyM.set("Padawan", [13, 12, 0]);
 difficultyM.set("Jedi Knight", [8, 9, 8]);
